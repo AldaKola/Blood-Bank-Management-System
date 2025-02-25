@@ -1,1 +1,2 @@
-# Blood-Bank-Management-System
+## Blood Bank Management System
+### This project was for the Secure Digital Healthcare course at the University of Padua. It includes both the frontend visualization and the backend functionalities using PHP. Key features: login page, registration page, patient blood request froms, and administrator page. emphasis was put on the security measures: 2 FA, input sanitization and validation, password hashing to ensure data security and integrity within the system.
